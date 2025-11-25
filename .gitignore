@@ -1,0 +1,13 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo de editores de texto
+*~
+*.bak
+
+# Carpetas temporales (solo en la raíz)
+/temp/
+
+# Archivos de registro
+*.log
