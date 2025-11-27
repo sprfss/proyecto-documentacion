@@ -13,33 +13,9 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 
 ## 📝 Tabla de Contenidos
 
-*(Esta tabla se completará a medida que la guía crezca.)*
-
-1.  **Introducción a Git**
-    * Instalación y Configuración Inicial
-    * Conceptos Fundamentales
-
-2.  **Configuración del Repositorio**
-    * Inicialización (`git init`)
-    * Gestión de Archivos Ignorados (`.gitignore`)
-
-3.  **Flujo de Trabajo Básico**
-    * Revisión de Estado (`git status`)
-    * Preparación de Cambios (`git add`)
-    * Confirmación de Cambios (`git commit`)
-
-4.  **Historial y Deshacer Cambios**
-    * Visualización del Historial (`git log`)
-    * Reversión y Reset
-
-5.  **Ramas (Branches)**
-    * Creación y Cambio de Ramas
-    * Fusión de Ramas (`git merge`)
-
-6.  **Trabajo Remoto**
-    * Clonación de Repositorios (`git clone`)
-    * Subir y Bajar Cambios (`git push`, `git pull`)
-
+* [¿Qúe es el desarrollo web?](\introduccion\que-es-desarrollo-web.md)
+* [Historia sobre el desarrollo web](\introduccion\historia.md)
+* [Tecnologías actuales para el desarrollo web](\introduccion\tecnologias-actuales.md)
 ---
 
 ## Licencia
