@@ -13,9 +13,9 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 
 ## 📝 Tabla de Contenidos
 
-* [¿Qúe es el desarrollo web?](\introduccion\que-es-desarrollo-web.md)
-* [Historia sobre el desarrollo web](\introduccion\historia.md)
-* [Tecnologías actuales para el desarrollo web](\introduccion\tecnologias-actuales.md)
+* [¿Qúe es el desarrollo web?](/introduccion/que-es-desarrollo-web.md)
+* [Historia sobre el desarrollo web](/introduccion\historia.md)
+* [Tecnologías actuales para el desarrollo web](/introduccion/tecnologias-actuales.md)
 ---
 
 ## Licencia
