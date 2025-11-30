@@ -22,5 +22,17 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 * [Frameworks para Desarrollo Web](frontend/frameworks.md)
 ---
 
-## Licencia
-Aún por definir
+
+## 🤝 Contribuciones
+
+¡Tu ayuda es muy valiosa\! Agradecemos cualquier contribución para mejorar y expandir esta documentación.
+
+Si deseas colaborar con más contenido, correcciones o mejoras en la estructura, sigue estos sencillos pasos.
+
+### 1\. 📋 Pautas de Contribución
+
+Antes de empezar, ten en cuenta lo siguiente:
+
+  * **Temas:** Cada tema debe estar en un archivo `.md` separado (por ejemplo, `nuevos-servidores.md`).
+  * **Formato:** Utiliza el formato **Markdown** (como se ve en el resto de los archivos) para asegurar la consistencia.
+  * **Carpetas:** Añade tu nuevo archivo en la carpeta correspondiente 
