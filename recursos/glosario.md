@@ -1,6 +1,6 @@
 ## 🌐 Glosario de Términos Web
 
-Este glosario contiene las definiciones de los términos fundamentales utilizados en el desarrollo y la arquitectura de sitios web y aplicaciones. 
+Este glosario contiene las definiciones de los términos fundamentales utilizados en el desarrollo y la arquitectura de sitios web y aplicaciones. Por orden alfabético.
 
 ---
 
