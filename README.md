@@ -14,8 +14,12 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 ## 📝 Tabla de Contenidos
 
 * [¿Qúe es el desarrollo web?](/introduccion/que-es-desarrollo-web.md)
-* [Historia sobre el desarrollo web](/introduccion\historia.md)
+* [Historia sobre el desarrollo web](/introduccion/historia.md)
 * [Tecnologías actuales para el desarrollo web](/introduccion/tecnologias-actuales.md)
+* [HTML Básico](frontend/html-basico.md)
+* [CSS Avanzado](frontend/css-avanzado.md)
+* [JavaScript Moderno](frontend/javascript-moderno.md)
+* [Frameworks para Desarrollo Web](frontend/frameworks.md)
 ---
 
 ## Licencia
