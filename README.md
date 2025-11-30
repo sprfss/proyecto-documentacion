@@ -22,7 +22,6 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 * [Frameworks para Desarrollo Web](frontend/frameworks.md)
 ---
 
-
 ## 🤝 Contribuciones 
 
 ¡Tu ayuda es muy valiosa\! Agradecemos cualquier contribución para mejorar y expandir esta documentación.
