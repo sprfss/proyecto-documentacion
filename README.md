@@ -23,11 +23,11 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 ---
 
 
-## 🤝 Contribuciones
+## 🤝 Contribuciones 
 
 ¡Tu ayuda es muy valiosa\! Agradecemos cualquier contribución para mejorar y expandir esta documentación.
 
-Si deseas colaborar con más contenido, correcciones o mejoras en la estructura, sigue estos sencillos pasos.
+Si deseas colaborar con más contenido, correcciones o mejoras en la estructura, sigue esta pautas.
 
 ### 1\. 📋 Pautas de Contribución
 
