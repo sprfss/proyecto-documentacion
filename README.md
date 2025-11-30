@@ -19,5 +19,3 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 ---
 
 ## Licencia
-
-[Pendiente de definir]
