@@ -18,4 +18,5 @@ Este repositorio contiene una guía de referencia completa y práctica para domi
 * [Tecnologías actuales para el desarrollo web](/introduccion/tecnologias-actuales.md)
 ---
 
-## Licencia
+## Contribuciones
+Aún por definir
